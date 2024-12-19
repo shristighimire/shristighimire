@@ -39,7 +39,7 @@ Original file is located at
 # st.write(filtered_data.describe())
 #
 
-!ngrok authtoken 2qQETu3SGuYTIRpNI5h2PJf63Q6_iUbzkAoo4dcQG8dMXhzz
+!ngrok authtoken ADD YOUR TOKEN HERE
 
 from pyngrok import ngrok
 import os
